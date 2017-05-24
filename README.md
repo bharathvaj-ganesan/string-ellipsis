@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/bharathvaj1995/array-random-shuffle.svg?branch=master)](https://travis-ci.org/bharathvaj1995/string-ellipsis) 
 [![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
  
-# array-random-shuffle     
+# string-ellipsis     
 
 String truncation using ellipsis
 
