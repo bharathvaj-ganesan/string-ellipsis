@@ -1,0 +1,33 @@
+{
+  "name": "string-ellipsis",
+  "version": "0.0.1",
+  "description": "String truncation using ellipsis",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.1.1"
+  },
+  "scripts": {
+    "run": "grunt run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharathvaj1995/string-ellipsis.git"
+  },
+  "keywords": [
+    "string",
+    "truncation",
+    "overflow",
+    "ellipsis",
+    "reduce"
+  ],
+  "author": "Bharathvaj Ganesan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bharathvaj1995/string-ellipsis/issues"
+  },
+  "homepage": "https://github.com/bharathvaj1995/string-ellipsis#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
